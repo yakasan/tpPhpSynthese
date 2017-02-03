@@ -20,4 +20,26 @@ class Citation
         $this->author=$author;
     }
 
+
+    function getRandomCitation(){
+
+
+
+
+    }
+
+
+    function getCitations(){
+
+    }
+
+
+
+    function getCitationByRegex(){
+
+    }
+
+    function getCitationById(){
+
+    }
 }
